@@ -1,0 +1,19 @@
+.mycard img{
+  height: 300px;  
+}
+.limited-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Limit text to 2 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.sprd img{
+  height:  500px;
+}
+
+.cc{
+ height: 500px;
+}
